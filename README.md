@@ -9,9 +9,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** and **Proje
 - 💻 Software Developer at **Costco Travel**  
   Building and maintaining booking systems using Java, Spring Boot, and SQL-based databases.
 
-- 🌍 Former Project Manager at a Water Infrastructure Consultancy  
-  Managed multi-stakeholder initiatives in industrial and municipal water treatment across the US, Europe, and Asia.
-
 - 🧠 Always learning:  
   Currently expanding skills in **AWS**, **microservices**, **Agile methodologies**, and **system design**.
 
