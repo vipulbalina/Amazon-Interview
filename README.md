@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Vipul Balina
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** and **Project Manager** with a diverse background in building scalable backend systems, leading innovative projects in the water sector, and driving cloud-native transformations. I thrive in solving real-world problems through clean code, thoughtful architecture, and cross-functional collaboration.
+Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a diverse background in building scalable backend systems, and driving cloud-native transformations. I thrive in solving real-world problems through clean code, thoughtful architecture, and cross-functional collaboration.
 
 ---
 
